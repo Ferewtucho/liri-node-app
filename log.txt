@@ -30,3 +30,23 @@ Michael Wheeler           Michael Wheeler, Vol. 4                      Stone Roc
 * Movie Plot :The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.
 * Actors :Marlon Brando, Al Pacino, James Caan, Richard S. Castellano
  ###################### ###################### ###################### ###################### ######################
+ Artist:H.e.r
+ Venue name: Echostage
+ Venue location: Washington
+ Date of Event: 10/25/2018
+
+ ###################### ###################### ###################### ###################### ######################
+
+ artist      album_name                           song_name                                preview_url                                                                                                
+----------  -----------------------------------  ---------------------------------------  -----------------------------------------------------------------------------------------------------------
+Drake       Scorpion                             In My Feelings                           null                                                                                                       
+Drake       Scorpion                             Nonstop                                  null                                                                                                       
+BlocBoy JB  Look Alive (feat. Drake)             Look Alive (feat. Drake)                 https://p.scdn.co/mp3-preview/4c9c1f93e4b6032679d772a0a8c3c28cef5a42ae?cid=00bcab8ccfc0470da603a431d2638ecc
+Lil Baby    Harder Than Ever                     Yes Indeed                               null                                                                                                       
+Drake       Scorpion                             God's Plan                               null                                                                                                       
+Drake       Scorpion                             Nice For What                            null                                                                                                       
+Lil Baby    Drip Harder                          Never Recover (Lil Baby & Gunna, Drake)  null                                                                                                       
+Drake       Scorpion                             Mob Ties                                 null                                                                                                       
+Drake       Scorpion                             I'm Upset                                null                                                                                                       
+2 Chainz    Bigger Than You feat. Drake & Quavo  Bigger Than You (feat. Drake & Quavo)    null                                                                                                       
+
