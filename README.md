@@ -6,6 +6,13 @@
 <ol>
 <li>Clone the repository on your local machine.</li>
 <li>2.Open the terminal in the correct folder and run npm install to install all the dependencies</li>
+   <ul>
+      <li>Node-Spotify-API</li>
+      <li>Request</li>
+      <li>Moment</li>
+      <li>DotEnv</li>
+      <li>console.table</li>
+   </ul>
 <li>get a spotify-key.</li>
 </ol>
 <h3>What Each Command Should Do</h3>
