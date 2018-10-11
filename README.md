@@ -3,9 +3,11 @@
 <p>LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.</p>
 
 <h2>Geting started</h2>
-1.Clone the repository on your local machine.
-2.Open the terminal in the correct folder and run npm install to install all the dependencies
-3.get a spotify-key.
+<ol>
+<li>Clone the repository on your local machine.</li>
+<li>2.Open the terminal in the correct folder and run npm install to install all the dependencies</li>
+<li>get a spotify-key.</li>
+</ol>
 <h3>What Each Command Should Do</h3>
 
 1.node liri.js concert-this <artist/band name here>
