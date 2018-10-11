@@ -59,7 +59,7 @@ This will output the following information to your terminal/bash window:
 <li>It should run spotify-this-song for "I Want it That Way," as follows the text in random.txt.</li>
 <li>Edit the text in random.txt to test out the feature for movie-this and my-tweets</li>
 </ul>
-<h2>Buit With</h2>
+<h2>Built With</h2>
 <p>JavasScript, Bands in Town API, Spotify API, OMDB API.</p>
 
 
