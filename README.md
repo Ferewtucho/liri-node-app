@@ -42,7 +42,7 @@ This will output the following information to your terminal/bash window:
    <li>* Language of the movie.</li>
    <li>* Plot of the movie.</li>
    <li>* Actors in the movie.</li>
-<ul>
+</ul>
 <li>If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'</li>
 <ul>
 <li>If you haven't watched "Mr. Nobody," then you should: <a href="http://www.imdb.com/title/tt0485947/"> http://www.imdb.com/title/tt0485947/</a></li>
