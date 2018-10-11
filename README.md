@@ -4,9 +4,7 @@
 
 <h2>Geting started</h2>
 1.Clone the repository on your local machine.
-
 2.Open the terminal in the correct folder and run npm install to install all the dependencies
-
 3.get a spotify-key.
 <h3>What Each Command Should Do</h3>
 
