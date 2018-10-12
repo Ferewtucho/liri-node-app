@@ -35,7 +35,7 @@
 <li>The album that the song is from</li>
 </ul>
 
-<li>If no song is provided then your program will default to "I Want it That Way" by ...</li>
+<li>If no song is provided then your program will default to "The Sign" by Ace of Base.</li>
 <li>You will utilize the<a href ="https://www.npmjs.com/package/node-spotify-api" target = "_blank">node-spotify-api</a> package in order to retrieve song information from the Spotify API.</li>
 <li>The Spotify API requires you sign up as a developer to generate the necessary credentials. You can follow these steps in order to generate a <strong>client id</strong> and <strong>client secret:</strong></li>
 <li>Step One: Visit <a href="https://developer.spotify.com/my-applications/#!/" target = "_blank">https://developer.spotify.com/my-applications/#!/</a></li>
