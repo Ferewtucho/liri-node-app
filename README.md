@@ -35,7 +35,7 @@
 <li>The album that the song is from</li>
 </ul>
 
-<li>If no song is provided then your program will default to "The Sign" by Ace of Base.</li>
+<li>If no song is provided then your program will default to "I Want it That Way" by ...</li>
 <li>You will utilize the<a href ="https://www.npmjs.com/package/node-spotify-api" target = "_blank">node-spotify-api</a> package in order to retrieve song information from the Spotify API.</li>
 <li>The Spotify API requires you sign up as a developer to generate the necessary credentials. You can follow these steps in order to generate a <strong>client id</strong> and <strong>client secret:</strong></li>
 <li>Step One: Visit <a href="https://developer.spotify.com/my-applications/#!/" target = "_blank">https://developer.spotify.com/my-applications/#!/</a></li>
@@ -63,14 +63,14 @@ This will output the following information to your terminal/bash window:
 <li>It's on Netflix!</li>
 </ul>
 
-<li>You'll use the request package to retrieve data from the OMDB API. Like all of the in-class activities, the OMDB API requires an API key. You may use trilogy.</li>
+<li>You'll use the request package to retrieve data from the OMDB API. The OMDB API requires an API key.</li>
 
 4.node liri.js do-what-it-says
 
 <li>Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.</li>
 <ul>
 <li>It should run spotify-this-song for "I Want it That Way," as follows the text in random.txt.</li>
-<li>Edit the text in random.txt to test out the feature for movie-this and my-tweets</li>
+<li>Edit the text in random.txt to test out the feature for movie-this and concert-this</li>
 </ul>
 <h2>Built With</h2>
 <p>JavasScript, Bands in Town API, Spotify API, OMDB API.</p>
